@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Animate" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Animate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CollectEAnimation">
+    <Position X="6.25" Y="0.75" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="CollectEAnimation.MyFrames">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\CollectEAnimation.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>BARAAQAAACAAAAgAAAAAAAAAAAAAAABAIAAAIgAAAAA=</HashCode>
+      <FileName>Assets\Scripts\CollectEAnimation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FABRIK" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEEAAAwAEABiAEAgAQICAAQAAGAAAQAAAABAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\FABRIK.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShowFPS" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ShowFPS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
